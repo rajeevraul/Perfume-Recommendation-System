@@ -1,0 +1,9 @@
+Dependant libraries:
+-bs4 BeautifulSoup (Web Scraping)
+-re (Regular expressions)
+-pandas (Daataframes)
+-matplotlib.pyplot (Plotting graphs)
+-thefuzz (String matching)
+-tweepy (Imprting tweets using thier API)
+-wordcloud (Plotting visualisations)
+-nltk (Natural Language Tool Kit for sentiment analysing)
